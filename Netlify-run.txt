@@ -1,0 +1,17 @@
+Using Netlify
+
+Netlify is a popular choice for hosting static sites and serverless functions. It offers continuous deployment from Git across all of its plans, including the free tier.
+
+    Build your React app: Run npm run build in your React project directory. This command creates a build directory with a production build of your app.
+    Push your code to GitHub (if it's not already there).
+    Connect Netlify to your GitHub repo:
+        Sign up/log in to Netlify.
+        Click on "New site from Git" and select GitHub.
+        Choose the repository with your React app.
+        Configure the build options. For a CRA app, the build command is npm run build, and the publish directory is build/.
+        Click on "Deploy site".
+
+Netlify will automatically rebuild and redeploy your site on every commit to the connected repository.
+Using Vercel
+
+Vercel is another excellent platform for deploying React applications, offering similar features to Netlify.
