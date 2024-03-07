@@ -23,6 +23,66 @@ const ProductsPage = () => {
             </div>
         </div>
     );
+    return (
+        <div>
+            <h1>Products</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Products</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Products</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Products</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Products</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Products</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
 };
 
 export default ProductsPage;
