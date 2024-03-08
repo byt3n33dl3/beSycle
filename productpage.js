@@ -15,7 +15,7 @@ const ProductsPage = () => {
 
     return (
         <div>
-            <h1>Products</h1>
+            <h1>Cervelo</h1>
             <div>
                 {products.map(product => (
                     <ProductCard key={product._id} product={product} />
@@ -25,7 +25,7 @@ const ProductsPage = () => {
     );
     return (
         <div>
-            <h1>Products</h1>
+            <h1>Orbea</h1>
             <div>
                 {products.map(product => (
                     <ProductCard key={product._id} product={product} />
@@ -35,7 +35,7 @@ const ProductsPage = () => {
     );
     return (
         <div>
-            <h1>Products</h1>
+            <h1>Pinarello</h1>
             <div>
                 {products.map(product => (
                     <ProductCard key={product._id} product={product} />
@@ -45,7 +45,7 @@ const ProductsPage = () => {
     );
     return (
         <div>
-            <h1>Products</h1>
+            <h1>TREK</h1>
             <div>
                 {products.map(product => (
                     <ProductCard key={product._id} product={product} />
@@ -55,7 +55,7 @@ const ProductsPage = () => {
     );
     return (
         <div>
-            <h1>Products</h1>
+            <h1>Bianchi</h1>
             <div>
                 {products.map(product => (
                     <ProductCard key={product._id} product={product} />
@@ -65,7 +65,7 @@ const ProductsPage = () => {
     );
     return (
         <div>
-            <h1>Products</h1>
+            <h1>SAVA</h1>
             <div>
                 {products.map(product => (
                     <ProductCard key={product._id} product={product} />
@@ -75,7 +75,427 @@ const ProductsPage = () => {
     );
     return (
         <div>
-            <h1>Products</h1>
+            <h1>S_Works</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Cervelo</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Orbea</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Pinarello</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>TREK</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Bianchi</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>SAVA</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>S_Works</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Cervelo</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Orbea</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Pinarello</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>TREK</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Bianchi</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>SAVA</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>S_Works</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Cervelo</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Orbea</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Pinarello</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>TREK</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Bianchi</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>SAVA</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>S_Works</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Cervelo</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Orbea</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Pinarello</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>TREK</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Bianchi</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>SAVA</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>S_Works</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Cervelo</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Orbea</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Pinarello</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>TREK</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Bianchi</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>SAVA</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>S_Works</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Cervelo</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Orbea</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Pinarello</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>TREK</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>Bianchi</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>SAVA</h1>
+            <div>
+                {products.map(product => (
+                    <ProductCard key={product._id} product={product} />
+                ))}
+            </div>
+        </div>
+    );
+    return (
+        <div>
+            <h1>S_Works</h1>
             <div>
                 {products.map(product => (
                     <ProductCard key={product._id} product={product} />
